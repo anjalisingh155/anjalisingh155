@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hey there, I'm Anjali Singh!
 
-<!--
-**anjalisingh155/anjalisingh155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year B.Tech student at Arya College of Engineering & I.T., Jaipur
+💻 An enthusiastic Computer Science student passionate about technology and problem solving
+🚀 Currently exploring Programming, Web Development, and Artificial Intelligence
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: C, C++
+- 🌐 Web Development: HTML, CSS, JavaScript
+- 🧠 Core Interest: Artificial Intelligence, Data Science, and Software Development
+
+📚 Academic Journey
+
+- Pursuing B.Tech in Computer Science / AI
+- Building strong fundamentals in programming and computer networks
+- Actively learning and improving through projects and practical work
+
+🌱 Learning Goals
+
+- Improve problem-solving and coding skills
+- Learn advanced Web Development
+- Explore AI and Data Science technologies
+
+🤝 Let's Connect!
+
+- 🌐 Portfolio: Coming Soon
+- 📫 Email: anjalisingh841311@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anjali-singh-b42652336
