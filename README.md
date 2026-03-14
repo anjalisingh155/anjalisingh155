@@ -1,3 +1,4 @@
+💫 About Me : 
 👋 Hey there, I'm Anjali Singh!
 
 🎓 2nd-year B.Tech student at Arya College of Engineering & I.T., Jaipur
